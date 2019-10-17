@@ -1,2 +1,4 @@
 Functional specification
 ========
+
+## Introduction
