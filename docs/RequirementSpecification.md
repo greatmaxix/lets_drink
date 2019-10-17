@@ -16,6 +16,5 @@ This is aimed at the party audience, people who would like to enjoy an interacti
 
 # Project outline
 
-
 # Goal 
 The goal is to maximize enjoyment and engagement through capturing the interest of players.
