@@ -4,8 +4,17 @@ System design
 ## Introduction
 
 
-## Title and People
-The title of your design doc, the author(s) (should be the same as the list of people planning to work on this project), the reviewer(s) of the doc (we'll talk more about that in the Process section below), and the date this document was last updated.
+## Project plan
+
+1. Game Project
+
+2. Scrum Master : Maksat Baigazy
+
+3. Team Memmbers: Maksat Baigazy, Amer Mamoun, Wade Friedrichs, Mxolisi Silabela, Xolani nhlapo, mamingke
+
+4. eadline for all tasks are the same: 15/12/2019
+
+5. Estimated Budget for the project is 20.000.000 Ft
 
 
 ## Overview
