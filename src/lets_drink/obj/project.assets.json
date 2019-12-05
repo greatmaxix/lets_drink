@@ -8,24 +8,31 @@
     ".NETCoreApp,Version=v3.0": []
   },
   "packageFolders": {
-    "/Users/maksat/.nuget/packages/": {}
+    "C:\\Users\\amerm\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/maksat/Documents/Projects/lets_drink/src/lets_drink/lets_drink.csproj",
+      "projectUniqueName": "C:\\Users\\amerm\\OneDrive\\Documents\\Github\\Application development III\\lets_drink\\src\\lets_drink\\lets_drink.csproj",
       "projectName": "lets_drink",
-      "projectPath": "/Users/maksat/Documents/Projects/lets_drink/src/lets_drink/lets_drink.csproj",
-      "packagesPath": "/Users/maksat/.nuget/packages/",
-      "outputPath": "/Users/maksat/Documents/Projects/lets_drink/src/lets_drink/obj/",
+      "projectPath": "C:\\Users\\amerm\\OneDrive\\Documents\\Github\\Application development III\\lets_drink\\src\\lets_drink\\lets_drink.csproj",
+      "packagesPath": "C:\\Users\\amerm\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\amerm\\OneDrive\\Documents\\Github\\Application development III\\lets_drink\\src\\lets_drink\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/Users/maksat/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\amerm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -59,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

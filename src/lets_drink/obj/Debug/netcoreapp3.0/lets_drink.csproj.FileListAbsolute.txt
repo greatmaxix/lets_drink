@@ -33,3 +33,39 @@
 /Users/maksat/Documents/Projects/lets_drink/src/lets_drink/obj/Debug/netcoreapp3.0/lets_drink.dll
 /Users/maksat/Documents/Projects/lets_drink/src/lets_drink/obj/Debug/netcoreapp3.0/lets_drink.pdb
 /Users/maksat/Documents/Projects/lets_drink/src/lets_drink/obj/Debug/netcoreapp3.0/lets_drink.csproj.CopyComplete
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\appsettings.Development.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\appsettings.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.exe
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.deps.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.runtimeconfig.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.runtimeconfig.dev.json
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.dll
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.pdb
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.Views.dll
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\bin\Debug\netcoreapp3.0\lets_drink.Views.pdb
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.csprojAssemblyReference.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\staticwebassets\lets_drink.StaticWebAssets.Manifest.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\staticwebassets\lets_drink.StaticWebAssets.xml
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.RazorAssemblyInfo.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.RazorAssemblyInfo.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.AssemblyInfoInputs.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.AssemblyInfo.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.TagHelpers.input.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.TagHelpers.output.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.RazorCoreGenerate.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.RazorTargetAssemblyInfo.cache
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.RazorTargetAssemblyInfo.cs
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.Views.pdb
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.dll
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.pdb
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\lets_drink.csproj.CopyComplete
+C:\Users\amerm\OneDrive\Documents\Github\Application development III\lets_drink\src\lets_drink\obj\Debug\netcoreapp3.0\Razor\Pages\register.cshtml.g.cs
