@@ -243,3 +243,8 @@ paket-files/
 # JetBrains Rider
 .idea/
 *.sln.iml
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/src/lets_drink/.vs/lets_drink/v16/Server/sqlite3
