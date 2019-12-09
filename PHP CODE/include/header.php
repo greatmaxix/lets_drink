@@ -12,8 +12,8 @@
 			<h1 class="branding-title"><a href="index.php">Lets Drink</a></h1>
 
 			<ul class="nav">
-               
-                <li> <a href="login.php">Logout</a></li>
+			    <li> <a href="login.php">Login</a></li>
+                <li> <a href="logout.php">Logout</a></li>
             </ul>
 
 		</div>
