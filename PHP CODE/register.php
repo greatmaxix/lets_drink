@@ -13,7 +13,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
     session_start();
     $username = clear_input($_POST["username"]);
     $password = clear_input($_POST["password"]);
-    $email = clear_input($_POST["email"])
+    $email = clear_input($_POST["email"]);
     $password_conf = clear_input($_POST["password_conf"]);
     register();
 
