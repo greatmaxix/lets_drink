@@ -6,12 +6,14 @@ $pageTitle = "Register";
 $section = "register";
 $username = "";
 $password = "";
+$email = "";
 $password_conf = "";
 
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
     session_start();
     $username = clear_input($_POST["username"]);
     $password = clear_input($_POST["password"]);
+    $email = clear_input($_POST["email"])
     $password_conf = clear_input($_POST["password_conf"]);
     register();
 
@@ -51,6 +53,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
             <tr>
                 <th><label for="username">Username</label></th>
                 <td><input type="text" name="username" value="<?php echo $username; ?>"></td>
+            </tr>
+            <tr>
+                <th><label for="email">Email</label></th>
+                <td><input type="text" name="email" value="<?php echo $email; ?>"></td>
             </tr>
             <tr>
                 <th><label for="password">Password</label></th>
