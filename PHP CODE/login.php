@@ -13,7 +13,7 @@ if ((isset($_POST["username"])) && (isset($_POST["password"]))){
     login();
     if (array_key_exists("success", $_SESSION)){
         if ($_SESSION['success']){
-            redirect("index.php");
+            redirect("count.php");
         }    
     }
 }
@@ -34,7 +34,7 @@ $section = "login";
 
 		<div class="wrapper">
 
-			<h1 class="branding-title">Personal Media Library</h1>
+			<h1 class="branding-title">letsdrink</h1>
 
 		</div>
 
