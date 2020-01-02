@@ -1,5 +1,4 @@
 <?php
-include()
 $n=$_GET['num'];
 $m=$_GET['num1'];
 $sum=$n+$m;

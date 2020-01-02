@@ -13,7 +13,7 @@ if ((isset($_POST["username"])) && (isset($_POST["password"]))){
     login();
     if (array_key_exists("success", $_SESSION)){
         if ($_SESSION['success']){
-            redirect("count.php");
+            redirect("index.html");
         }    
     }
 }

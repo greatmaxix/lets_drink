@@ -19,7 +19,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 
     if (array_key_exists("success", $_SESSION)){
         if ($_SESSION['success']){
-            redirect("index.php");
+            redirect("login.php");
         }    
     }
 }
@@ -36,7 +36,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
 
 		<div class="wrapper">
 
-			<h1 class="branding-title">Personal Media Library</h1>
+			<h1 class="branding-title">letsdrink</h1>
 
 		</div>
 
@@ -62,6 +62,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
                 <th><label for="password">Password</label></th>
                 <td><input type="password" name="password" value="<?php echo $password; ?>"></td>
             </tr>
+           
             <tr>
                 <th><label for="password">Confirm your assword</label></th>
                 <td><input type="password" name="password_conf" value="<?php echo $password; ?>"></td>
