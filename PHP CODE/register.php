@@ -67,7 +67,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST"){
             </tr>
            
             <tr>
-                <th><label for="password">Confirm your assword</label></th>
+                <th><label for="password">Confirm your password</label></th>
                 <td><input type="password" name="password_conf" value="<?php echo $password; ?>"></td>
             </tr>
 
