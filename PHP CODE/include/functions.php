@@ -5,6 +5,7 @@ function check_password($username, $password){
     $password = md5($password);
     $query = $db->prepare("SELECT * FROM Users where username = ? and password = ?");
     $query->bindParam(1,$username,PDO::PARAM_STR);
+    //$query->bindParam(2,$email,PDO::PARAM_STR);
     $query->bindParam(2,$password,PDO::PARAM_STR);
     $query->execute();
     $result = $query->fetchAll(PDO::FETCH_COLUMN, 0);
@@ -72,14 +73,19 @@ function clear_input ($input) {
   
 function register(){
 	// call these variables with the global keyword to make them available in function
-  global $username, $password, $password_conf;
+  global $username, $email, $password, $password_conf;
   include("connection.php");
 
   $errors = [];
 
 	// form validation: ensure that the form is correctly filled
 	if (empty($username)) { 
-		$errors[] = "Username is required"; 
+    $errors[] = "Username is required"; 
+  }
+
+  if (empty($email)) { 
+      $errors[] = "Email is required"; 
+    
 	}
 	if (empty($password)) { 
 		$errors[] = "Password is required"; 
@@ -100,9 +106,10 @@ function register(){
 		$password = md5($password);//encrypt the password before saving in the database
     
     try {
-      $query = $db->prepare("INSERT INTO Users(username, password) VALUES (?, ?)");
+      $query = $db->prepare("INSERT INTO Users(username,email, password) VALUES (?, ?, ?)");
       $query->bindParam(1,$username,PDO::PARAM_STR);
-      $query->bindParam(2,$password,PDO::PARAM_STR);
+      $query->bindParam(2,$email,PDO::PARAM_STR);
+      $query->bindParam(3,$password,PDO::PARAM_STR);
       $query->execute();
     } catch (PDOException $e) {
       echo "Failed to insert user: ".$e->getMessage();

@@ -9,17 +9,20 @@ $password = "";
 $email = "";
 $password_conf = "";
 
+//var_dump($_POST);
 if ($_SERVER["REQUEST_METHOD"] == "POST"){
+    
     session_start();
     $username = clear_input($_POST["username"]);
-    $password = clear_input($_POST["password"]);
     $email = clear_input($_POST["email"]);
+    $password = clear_input($_POST["password"]);
+   
     $password_conf = clear_input($_POST["password_conf"]);
     register();
 
     if (array_key_exists("success", $_SESSION)){
         if ($_SESSION['success']){
-            redirect("login.php");
+            redirect("index.html");
         }    
     }
 }
